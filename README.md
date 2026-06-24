@@ -21,7 +21,7 @@
 
 **AI / ML**
 
-![YOLOv8](https://img.shields.io/badge/YOLOv8-purple?style=flat-square)
+![YOLO](https://img.shields.io/badge/YOLO-purple?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![EasyOCR](https://img.shields.io/badge/EasyOCR-FF6B35?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
@@ -52,9 +52,9 @@
 ### 🌐 [net-ease](https://github.com/GunhoJin/net-ease)
 > GNS3 토폴로지 스크린샷 한 장으로 네트워크 장비 CLI 설정을 자동 생성하는 툴
 
-- GNS3 화면 캡처 → EasyOCR + YOLOv8로 장비·링크 자동 인식
+- GNS3 화면 캡처 → EasyOCR + YOLO로 장비·링크 자동 인식
 - VLAN·서브넷 입력 → Cisco IOS / FortiGate CLI 설정 파일 자동 출력
-- `Python` `tkinter` `YOLOv8` `EasyOCR` `OpenCV`
+- `Python` `tkinter` `YOLO` `EasyOCR` `OpenCV`
 
 ---
 
@@ -72,8 +72,8 @@
 > 약 사진에서 알약을 탐지하는 헬스케어 객체 검출 프로젝트
 
 - COCO 형식 어노테이션 전처리 · Multi-label stratified split
-- YOLOv8m 기반 73-class 커스텀 학습 파이프라인
-- `YOLOv8` `PyTorch` `COCO` `Google Colab`
+- YOLOm 기반 73-class 커스텀 학습 파이프라인
+- `YOLO` `PyTorch` `COCO` `Google Colab`
 
 ---
 
