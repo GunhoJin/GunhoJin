@@ -35,8 +35,8 @@
 
 **Network**
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![GNS3](https://img.shields.io/badge/GNS3-Network-green?style=flat-square)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
 ![HPE Aruba](https://img.shields.io/badge/HPE%20Aruba-FF8300?style=flat-square)
 ![Alteon](https://img.shields.io/badge/Alteon-0055A5?style=flat-square)
