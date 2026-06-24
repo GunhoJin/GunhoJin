@@ -38,6 +38,17 @@
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![GNS3](https://img.shields.io/badge/GNS3-Network-green?style=flat-square)
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+![HPE Aruba](https://img.shields.io/badge/HPE%20Aruba-FF8300?style=flat-square)
+![Alteon](https://img.shields.io/badge/Alteon-0055A5?style=flat-square)
+![F5](https://img.shields.io/badge/F5-E4002B?style=flat-square)
+
+**Server**
+
+![HPE](https://img.shields.io/badge/HPE-01A982?style=flat-square)
+![Dell EMC](https://img.shields.io/badge/Dell%20EMC-007DB8?style=flat-square&logo=dell&logoColor=white)
+![SuperMicro](https://img.shields.io/badge/SuperMicro-FF0000?style=flat-square)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 **Tools**
 
