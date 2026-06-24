@@ -47,7 +47,7 @@
 
 ---
 
-## 🚀 주요 프로젝트
+## 주요 프로젝트
 
 ### 🌐 [net-ease](https://github.com/GunhoJin/net-ease)
 > GNS3 토폴로지 스크린샷 한 장으로 네트워크 장비 CLI 설정을 자동 생성하는 툴
