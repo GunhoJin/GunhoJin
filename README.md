@@ -25,7 +25,7 @@
 
 **AI / ML / RAG / LLM**
 
-![YOLO](https://img.shields.io/badge/YOLO-purple?style=flat-square)
+![YOLO](https://img.shields.io/badge/YOLO-purple?style=flat-square&logo=yolo&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![EasyOCR](https://img.shields.io/badge/EasyOCR-FF6B35?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
@@ -33,7 +33,7 @@
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-00C7B7?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
@@ -44,7 +44,7 @@
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
 ![HPE Aruba](https://img.shields.io/badge/HPE%20Aruba-FF8300?style=flat-square)
 ![Alteon](https://img.shields.io/badge/Alteon-0055A5?style=flat-square)
-![F5](https://img.shields.io/badge/F5-E4002B?style=flat-square)
+![F5](https://img.shields.io/badge/F5-E4002B?style=flat-square&logo=f5&logoColor=white)
 
 **Server**
 
