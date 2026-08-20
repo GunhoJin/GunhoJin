@@ -1,23 +1,25 @@
-<div id="korean"></div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:5C3EE8&height=150&section=header"/>
-
-<p align="right">
-  🇰🇷 한국어 · 🇺🇸 <a href="#english">English ↓</a>
-</p>
 
 <h1 align="center">안녕하세요, 진건호입니다 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=20&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=10%EB%85%84%EC%B0%A8%20IT%20%EC%9D%B8%ED%94%84%EB%9D%BC%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4;AI%20%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%20%EC%88%98%EB%A3%8C;%EC%9A%94%EC%A6%98%EC%9D%80%20%EB%B0%94%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9%EC%97%90%20%ED%91%B9%20%EB%B9%A0%EC%A7%90"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=15%2B+Years+Infra+Engineer;AI+Bootcamp+Grad;Vibe+Coding+Enthusiast"/>
 </p>
 
 <p>
-  10년 넘게 네트워크와 서버를 만지며 살아온 인프라 엔지니어입니다. F5, Cisco, HPE Aruba 같은 장비부터 리눅스 서버까지, 눈에 보이는 인프라가 오랫동안 제 영역이었습니다.
+  15년 넘게 네트워크와 서버를 만지며 살아온 인프라 엔지니어입니다. F5, Cisco, HPE Aruba 같은 장비부터 리눅스 서버까지, 눈에 보이는 인프라가 오랫동안 제 영역이었습니다.
 </p>
 
 <p>
-  그러다 부트캠프에서 AI를 배우면서 코드로 뭔가를 만드는 재미에 빠졌고, 요즘은 AI와 대화하듯 코드를 짜는 '바이브 코딩'에 푹 빠져 있습니다. 10년의 인프라 경험에 새로 배운 AI 실력을 더해, 두 세계를 잇는 엔지니어가 되려 합니다.
+  그러다 부트캠프에서 AI를 배우면서 코드로 뭔가를 만드는 재미에 빠졌고, 요즘은 AI와 대화하듯 코드를 짜는 '바이브 코딩'에 푹 빠져 있습니다. 15년의 인프라 경험에 새로 배운 AI 실력을 더해, 두 세계를 잇는 엔지니어가 되려 합니다.
+</p>
+
+<p>
+  I've spent 15+ years as an infrastructure engineer working with networks and servers - gear like F5, Cisco, and HPE Aruba, plus the Linux boxes underneath them. That's been my world for a long time.
+</p>
+
+<p>
+  Then I picked up AI at a bootcamp and got hooked on the feeling of building things with code. These days I'm deep into what people call "vibe coding" - writing code in conversation with AI tools. I'm trying to combine fifteen years of infrastructure experience with newly learned AI skills to become an engineer who bridges both worlds.
 </p>
 
 <p align="center">
@@ -154,74 +156,3 @@
   <i>"복잡한 작업을 단순하게, 반복적인 작업을 자동으로."</i>
 </p>
 
-<br/>
-
-<div id="english"></div>
-
-<p align="right">
-  🇺🇸 English · 🇰🇷 <a href="#korean">한국어 ↑</a>
-</p>
-
-<h1 align="center">Hi, I'm Gunho Jin 👋</h1>
-
-<p>
-  I've spent 10+ years as an infrastructure engineer working with networks and servers - gear like F5, Cisco, and HPE Aruba, plus the Linux boxes underneath them. That's been my world for a long time.
-</p>
-
-<p>
-  Then I picked up AI at a bootcamp and got hooked on the feeling of building things with code. These days I'm deep into what people call "vibe coding" - writing code in conversation with AI tools. I'm trying to combine ten years of infrastructure experience with newly learned AI skills to become an engineer who bridges both worlds.
-</p>
-
----
-
-## Featured Projects
-
-### 🌐 [net-ease](https://github.com/GunhoJin/net-ease)
-> A tool that turns a single GNS3 topology screenshot into ready-to-use network device CLI configs
-
-- Captures a GNS3 screen and auto-recognizes devices/links with EasyOCR + YOLO
-- Takes VLAN/subnet input and outputs Cisco IOS / FortiGate CLI config files
-- `Python` `tkinter` `YOLO` `EasyOCR` `OpenCV`
-
----
-
-### 🤖 [2Team_Project](https://github.com/GunhoJin/2Team_Project)
-> A hybrid RAG + LLM Q&A system for public procurement RFP documents
-
-- ChromaDB + BM25 hybrid search, KURE-v1 embeddings, BGE reranker
-- Supports switching between Phi-4-mini / Gemma 4 / Gemini
-- Ships with three interfaces: Streamlit, Chainlit, and FastAPI
-- `RAG` `LLM` `FastAPI` `Streamlit` `ChromaDB` `PEFT`
-
----
-
-### 💊 [Oral Medication Object Detection](https://github.com/GunhoJin/Oral-Medication-Image-Object-Detection-Project)
-> A healthcare object detection project that identifies pills from photos
-
-- COCO-format annotation preprocessing, multi-label stratified split
-- Custom 73-class training pipeline built on YOLO
-- `YOLO` `PyTorch` `COCO` `Google Colab`
-
----
-
-### 🔢 [subnet-calc](https://github.com/GunhoJin/subnet-calc)
-> An IPv4 / IPv6 subnet calculator GUI
-
-- Enter a prefix and instantly get the subnet mask, broadcast address, and host range
-- Copy-to-clipboard button, Enter-to-calculate support
-- `Python` `tkinter` `ipaddress`
-
----
-
-### 🐳 [mission15-docker-ml](https://github.com/GunhoJin/mission15-docker-ml)
-> A collaborative ML workflow for predicting student performance, built on Docker containers
-
-- Researcher 1: automated data preprocessing and training - a Random Forest model (RMSE 0.9504, R² 0.9975)
-- Researcher 2: loads the model from a Docker Hub image and runs inference, orchestrated with docker-compose
-- `Docker` `docker-compose` `pandas` `scikit-learn`
-
----
-
-<p align="center">
-  <i>"Make complex work simple, automate the repetitive."</i>
-</p>
