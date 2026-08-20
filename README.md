@@ -99,6 +99,15 @@
 
 ---
 
+### 🐳 [mission15-docker-ml](https://github.com/GunhoJin/mission15-docker-ml)
+> 학생 성적 예측 모델을 Docker 컨테이너 기반으로 구현한 협업 머신러닝 워크플로우
+
+- 연구자 1: 데이터 전처리·학습 자동화 → Random Forest 모델 학습 (RMSE 0.9504, R² 0.9975)
+- 연구자 2: Docker Hub 이미지로 모델 로드 후 추론, docker-compose로 컨테이너 오케스트레이션
+- `Docker` `docker-compose` `pandas` `scikit-learn`
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
