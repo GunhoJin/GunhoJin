@@ -1,6 +1,6 @@
 <div id="korean"></div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:5C3EE8&height=180&section=header&text=GunhoJin&fontSize=50&fontColor=ffffff&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:5C3EE8&height=150&section=header"/>
 
 <p align="right">
   🇰🇷 한국어 · 🇺🇸 <a href="#english">English ↓</a>
