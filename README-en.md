@@ -1,19 +1,19 @@
 <p align="right">
-  🇰🇷 한국어 · 🇺🇸 <a href="README-en.md">English</a>
+  🇰🇷 <a href="README.md">한국어</a> · 🇺🇸 English
 </p>
 
-<h1 align="center">안녕하세요, 진건호입니다 👋</h1>
+<h1 align="center">Hi, I'm Gunho Jin 👋</h1>
 
 <p>
-  10년 넘게 IT 인프라 엔지니어로 일하면서 F5, Cisco, Fortinet, HPE Aruba 같은 네트워크 장비부터 HPE·Dell EMC·SuperMicro 서버, 그 위에 올라가는 CentOS·Rocky Linux·Ubuntu 리눅스까지 두루 만지고 살았습니다. 케이블 정리부터 방화벽 정책, L4 스위치 설정, 서버 구축과 리눅스 운영까지 - 눈에 보이는 인프라를 다루는 게 오랫동안 제 본업이었습니다.
-</p>
-
-<p>
-  그러다 AI를 제대로 배워보고 싶어서 부트캠프 문을 두드렸습니다. 인프라만 만지던 사람이 파이썬 문법부터 다시 익히려니 처음엔 막막했지만, 배우다 보니 코드로 뭔가가 만들어지는 재미에 완전히 빠져버렸습니다. 특히 AI 도구와 대화하듯 코드를 짜 내려가는 이른바 '바이브 코딩'에 재미를 붙이면서, 예전 같으면 엄두도 못 냈을 것들을 하나둘 직접 만들어보기 시작했습니다.
+  I've spent the last 10+ years as an IT infrastructure engineer, working hands-on with network gear like F5, Cisco, Fortinet, and HPE Aruba, servers from HPE, Dell EMC, and SuperMicro, and the CentOS, Rocky Linux, and Ubuntu boxes running on top of them. Cabling, firewall policy, L4 switch configs, server builds, Linux administration - the physical, day-to-day side of infrastructure has been my job for a long time.
 </p>
 
 <p>
-  그렇게 나온 결과물이 GNS3 화면 한 장으로 네트워크 장비 설정을 자동 생성하는 도구고, RAG 기반 Q&A 시스템이고, 이미지에서 알약을 탐지하는 프로젝트입니다. 10년간 쌓아온 인프라 경험과 뒤늦게 배운 코딩·AI 실력을 엮어서, 인프라와 AI를 같이 다룰 줄 아는 엔지니어가 되는 게 요즘 목표입니다.
+  At some point I wanted to actually learn AI, so I signed up for a bootcamp. Going from pure infrastructure work back to relearning Python syntax was rough at first, but somewhere along the way I got hooked on the feeling of building something out of code. I especially got into what people call "vibe coding" - writing code in a back-and-forth with AI tools - and started building things I never would have attempted before.
+</p>
+
+<p>
+  That's where these projects came from: a tool that turns a single GNS3 screenshot into network device configs, a RAG-based Q&A system, a project that detects pills in images. I'm trying to combine ten years of infrastructure experience with the coding and AI skills I picked up later, and figure out how to be an engineer who's comfortable on both sides.
 </p>
 
 <p align="center">
@@ -85,50 +85,50 @@
 
 ---
 
-## 주요 프로젝트
+## Featured Projects
 
 ### 🌐 [net-ease](https://github.com/GunhoJin/net-ease)
-> GNS3 토폴로지 스크린샷 한 장으로 네트워크 장비 CLI 설정을 자동 생성하는 툴
+> A tool that turns a single GNS3 topology screenshot into ready-to-use network device CLI configs
 
-- GNS3 화면 캡처 → EasyOCR + YOLO로 장비·링크 자동 인식
-- VLAN·서브넷 입력 → Cisco IOS / FortiGate CLI 설정 파일 자동 출력
+- Captures a GNS3 screen and auto-recognizes devices/links with EasyOCR + YOLO
+- Takes VLAN/subnet input and outputs Cisco IOS / FortiGate CLI config files
 - `Python` `tkinter` `YOLO` `EasyOCR` `OpenCV`
 
 ---
 
 ### 🤖 [2Team_Project](https://github.com/GunhoJin/2Team_Project)
-> 공공입찰 RFP 문서를 위한 하이브리드 RAG + LLM Q&A 시스템
+> A hybrid RAG + LLM Q&A system for public procurement RFP documents
 
-- ChromaDB + BM25 하이브리드 검색, KURE-v1 임베딩, BGE Reranker
-- Phi-4-mini / Gemma 4 / Gemini 멀티 모델 전환 지원
-- Streamlit · Chainlit · FastAPI 3가지 인터페이스 제공
+- ChromaDB + BM25 hybrid search, KURE-v1 embeddings, BGE reranker
+- Supports switching between Phi-4-mini / Gemma 4 / Gemini
+- Ships with three interfaces: Streamlit, Chainlit, and FastAPI
 - `RAG` `LLM` `FastAPI` `Streamlit` `ChromaDB` `PEFT`
 
 ---
 
 ### 💊 [Oral Medication Object Detection](https://github.com/GunhoJin/Oral-Medication-Image-Object-Detection-Project)
-> 약 사진에서 알약을 탐지하는 헬스케어 객체 검출 프로젝트
+> A healthcare object detection project that identifies pills from photos
 
-- COCO 형식 어노테이션 전처리 · Multi-label stratified split
-- YOLOm 기반 73-class 커스텀 학습 파이프라인
+- COCO-format annotation preprocessing, multi-label stratified split
+- Custom 73-class training pipeline built on YOLO
 - `YOLO` `PyTorch` `COCO` `Google Colab`
 
 ---
 
 ### 🔢 [subnet-calc](https://github.com/GunhoJin/subnet-calc)
-> IPv4 / IPv6 서브넷 계산기 GUI 툴
+> An IPv4 / IPv6 subnet calculator GUI
 
-- 프리픽스만 입력하면 서브넷 마스크·브로드캐스트·호스트 범위 즉시 출력
-- 결과 복사 버튼 · Enter 키 계산 지원
+- Enter a prefix and instantly get the subnet mask, broadcast address, and host range
+- Copy-to-clipboard button, Enter-to-calculate support
 - `Python` `tkinter` `ipaddress`
 
 ---
 
 ### 🐳 [mission15-docker-ml](https://github.com/GunhoJin/mission15-docker-ml)
-> 학생 성적 예측 모델을 Docker 컨테이너 기반으로 구현한 협업 머신러닝 워크플로우
+> A collaborative ML workflow for predicting student performance, built on Docker containers
 
-- 연구자 1: 데이터 전처리·학습 자동화 → Random Forest 모델 학습 (RMSE 0.9504, R² 0.9975)
-- 연구자 2: Docker Hub 이미지로 모델 로드 후 추론, docker-compose로 컨테이너 오케스트레이션
+- Researcher 1: automated data preprocessing and training - a Random Forest model (RMSE 0.9504, R² 0.9975)
+- Researcher 2: loads the model from a Docker Hub image and runs inference, orchestrated with docker-compose
 - `Docker` `docker-compose` `pandas` `scikit-learn`
 
 ---
@@ -147,5 +147,5 @@
 ---
 
 <p align="center">
-  <i>"복잡한 작업을 단순하게, 반복적인 작업을 자동으로."</i>
+  <i>"Make complex work simple, automate the repetitive."</i>
 </p>
