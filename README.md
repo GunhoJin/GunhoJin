@@ -85,8 +85,7 @@
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=docker,git,linux,aws,gcp,azure&theme=dark" />
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,git,linux,aws,gcp,azure&theme=dark" /> <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
 
 ---
 
