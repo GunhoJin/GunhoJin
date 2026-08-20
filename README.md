@@ -48,9 +48,9 @@
 
 **Server**
 
-![HPE](https://img.shields.io/badge/HPE-01A982?style=flat-square)
+![HPE](https://img.shields.io/badge/HPE-01A982?style=flat-square&logo=hp&logoColor=white)
 ![Dell EMC](https://img.shields.io/badge/Dell%20EMC-007DB8?style=flat-square&logo=dell&logoColor=white)
-![SuperMicro](https://img.shields.io/badge/SuperMicro-FF0000?style=flat-square)
+![SuperMicro](https://img.shields.io/badge/SuperMicro-FF0000?style=flat-square&logo=supermicro&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white)
 ![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=flat-square&logo=rockylinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
