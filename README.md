@@ -1,10 +1,16 @@
 <h1 align="center">안녕하세요, 진건호입니다 👋</h1>
 
 <p align="center">
-  네트워크 자동화 · AI/ML · 풀스택 툴 개발에 관심이 많은 개발자입니다.
+  네트워크 엔지니어로 일하면서, 틈틈이 AI/ML도 공부하고 있습니다.
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/gunhojin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:redangeljin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://github.com/GunhoJin">
     <img src="https://komarev.com/ghpvc/?username=GunhoJin&style=flat-square&color=blue" alt="profile views"/>
   </a>
