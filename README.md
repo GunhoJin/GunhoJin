@@ -44,6 +44,12 @@
 
 🔒 = private repository (description shown, code not public)
 
+### Currently Focused On
+
+- Bridging traditional network/infrastructure operations with AI-assisted automation (LLM-based tooling for F5 BIG-IP)
+- Building lightweight, dry-run-first automation tools for infrastructure and operations teams
+- Applying computer vision to practical, operational problems
+
 ---
 
 ## 한국어
@@ -77,14 +83,11 @@
 
 🔒 = 비공개 저장소 (설명만 공개, 코드는 비공개)
 
----
+### 현재 집중하는 영역
 
-## GitHub Activity
-
-<div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GunhoJin&theme=default" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GunhoJin&theme=default" />
-</div>
+- 전통적인 네트워크/인프라 운영과 AI 기반 자동화의 접점 구축 (F5 BIG-IP용 LLM 기반 도구)
+- 인프라·운영팀을 위한 경량, dry-run 우선 자동화 도구 개발
+- 컴퓨터 비전을 실제 운영 문제에 적용
 
 ---
 
