@@ -59,10 +59,10 @@ AWS · GCP · Azure · VMware
 | **net_test_bot** 🔒 | Tkinter GUI bot for L4 health checks — NIC selection and automatic server identification via probing and REST calls | Python, Tkinter |
 | [net-ease](https://github.com/GunhoJin/net-ease) | Generates network device CLI configs (Cisco IOS / FortiGate) from a single GNS3 topology screenshot | Python, YOLO, EasyOCR, OpenCV |
 | [subnet-calc](https://github.com/GunhoJin/subnet-calc) | IPv4 / IPv6 subnet calculator with a lightweight GUI | Python, Tkinter |
-| [Oral Medication Object Detection](https://github.com/GunhoJin/Oral-Medication-Image-Object-Detection-Project) | 73-class custom object detection pipeline for identifying pills from photographs | YOLO, PyTorch, COCO |
+| [Oral Medication Object Detection](https://github.com/GunhoJin/Oral-Medication-Image-Object-Detection-Project) 👥 | Team project — contributed to a 73-class custom object detection pipeline for identifying pills from photographs | YOLO, PyTorch, COCO |
 | **Budget Approval System** 🔒 | Full-stack expense approval workflow app for a nonprofit organization, from request to multi-level sign-off | Express, Prisma, React, Tailwind |
 
-🔒 = private repository (description shown, code not public)
+🔒 = private repository (description shown, code not public) · 👥 = team project
 
 <br/>
 
@@ -119,10 +119,10 @@ AWS · GCP · Azure · VMware
 | **net_test_bot** 🔒 | L4 점검용 Tkinter GUI 봇 — NIC 선택과 프로브·REST 기반 서버 자동 식별 | Python, Tkinter |
 | [net-ease](https://github.com/GunhoJin/net-ease) | GNS3 토폴로지 스크린샷 한 장으로 네트워크 장비 CLI 설정(Cisco IOS / FortiGate)을 생성 | Python, YOLO, EasyOCR, OpenCV |
 | [subnet-calc](https://github.com/GunhoJin/subnet-calc) | 경량 GUI를 갖춘 IPv4 / IPv6 서브넷 계산기 | Python, Tkinter |
-| [경구약제 객체 검출](https://github.com/GunhoJin/Oral-Medication-Image-Object-Detection-Project) | 사진에서 알약을 식별하는 73종 커스텀 객체 검출 파이프라인 | YOLO, PyTorch, COCO |
+| [경구약제 객체 검출](https://github.com/GunhoJin/Oral-Medication-Image-Object-Detection-Project) 👥 | 팀 프로젝트 — 사진에서 알약을 식별하는 73종 커스텀 객체 검출 파이프라인에 참여 | YOLO, PyTorch, COCO |
 | **예산결재 시스템** 🔒 | 비영리 단체를 위한 신청부터 다단계 승인까지의 풀스택 예산결재 워크플로 앱 | Express, Prisma, React, Tailwind |
 
-🔒 = 비공개 저장소 (설명만 공개, 코드는 비공개)
+🔒 = 비공개 저장소 (설명만 공개, 코드는 비공개) · 👥 = 팀 프로젝트
 
 <br/>
 
