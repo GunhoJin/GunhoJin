@@ -6,7 +6,7 @@
 **인프라 엔지니어 · AI/ML 실무자**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunhojin)
-[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:redangeljin@gmail.com)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=redangeljin@gmail.com)
 
 **[English](#english)** &nbsp;·&nbsp; **[한국어](#한국어)**
 
